@@ -1,0 +1,37 @@
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\bin\Debug\DataInterface.exe.config
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\bin\Debug\DataInterface.exe
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\bin\Debug\DataInterface.pdb
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\obj\Debug\DataInterface.Form1.resources
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\obj\Debug\DataInterface.Properties.Resources.resources
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\obj\Debug\DataInterface.csproj.GenerateResource.Cache
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\obj\Debug\DataInterface.exe
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\obj\Debug\DataInterface.pdb
+C:\Users\Capitolinus\Desktop\Bitirme Proje\DataInterface\DataInterface\obj\Debug\DataInterface.csprojResolveAssemblyReference.cache
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\bin\Debug\DataInterface.exe.config
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\obj\Debug\DataInterface.exe
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\obj\Debug\DataInterface.pdb
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\bin\Debug\DataInterface.exe
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\bin\Debug\DataInterface.pdb
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\obj\Debug\DataInterface.csprojResolveAssemblyReference.cache
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\obj\Debug\DataInterface.Form1.resources
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\obj\Debug\DataInterface.Properties.Resources.resources
+C:\Users\Capitolinus\Desktop\Dersler\Bitirme Ödevi Final\DataInterfaceLogger [C#]\DataInterface\DataInterface\obj\Debug\DataInterface.csproj.GenerateResource.Cache
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\bin\Debug\DataInterface.exe.config
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\bin\Debug\DataInterface.exe
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\bin\Debug\DataInterface.pdb
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\obj\Debug\DataInterface.Form1.resources
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\obj\Debug\DataInterface.Login.resources
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\obj\Debug\DataInterface.Properties.Resources.resources
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\obj\Debug\DataInterface.csproj.GenerateResource.Cache
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\obj\Debug\DataInterface.exe
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\obj\Debug\DataInterface.pdb
+C:\Users\eolme\Desktop\DataInterface\DataInterface\DataInterface\obj\Debug\DataInterface.csprojResolveAssemblyReference.cache
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\bin\Debug\DataInterface.exe.config
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\bin\Debug\DataInterface.exe
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\bin\Debug\DataInterface.pdb
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\obj\Debug\DataInterface.Form1.resources
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\obj\Debug\DataInterface.Login.resources
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\obj\Debug\DataInterface.Properties.Resources.resources
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\obj\Debug\DataInterface.csproj.GenerateResource.Cache
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\obj\Debug\DataInterface.exe
+C:\Users\eolme\Desktop\DataInterface - Kopya\DataInterface\DataInterface\obj\Debug\DataInterface.pdb
